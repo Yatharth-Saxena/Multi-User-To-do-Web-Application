@@ -85,8 +85,8 @@ Before you begin, ensure you have the following installed on your system:
    - Display reminder about database setup
    - Build the project (first time downloads dependencies - requires internet)
    - Start the embedded Tomcat server
-
-4. Once you see "Server startup" message, open your browser and go to:
+   - **Automatically open the application in your default browser**
+4. If the browser doesn't open automatically, go to:
    - `http://localhost:8080/MultiUserTodoApp`
 
 ### Manual Run (Alternative)
