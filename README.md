@@ -6,7 +6,6 @@ A modern, web-based multi-user To-Do list application built with Java, featuring
 
 - **User Authentication**: Secure registration and login system
 - **Task Management**: Create, Read, Update, and Delete tasks
-- **Task Organization**: Filter and sort tasks by various criteria
 - **Admin Panel**: User management capabilities for administrators
 - **Modern UI**: Responsive design with smooth animations and a visually appealing interface
 - **Password Visibility Toggle**: Convenient password viewing during login
