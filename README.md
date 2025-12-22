@@ -191,7 +191,5 @@ multi-to-do/
 ## 📝 Notes
 
 - The first run may take longer as Maven downloads all dependencies
-- Default admin credentials (if pre-configured): Check with your administrator
-- Make sure to backup your database regularly if using in production
-- For production deployment, consider changing the database password and securing the application
+- Sometimes the web page might show "this site can't be reached error" for first time users , reloading the page will fix it.
 
